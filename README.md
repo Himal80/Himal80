@@ -1,16 +1,60 @@
-## Hi there 👋
+<h1 align="center">Hi 👋 I'm Himal</h1>
 
-<!--
-**Himal80/Himal80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+🚀 Web + Automation + AI-based freelancing builder
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+I build simple but real-world digital solutions.  
+My focus is not just learning — I build things that can generate income.
+
+---
+
+## ⚙️ What I Do
+
+🔹 Web Design (HTML, CSS)  
+🔹 AI-based Automation  
+🔹 Social Media & E-commerce Setup  
+🔹 Canva Design (simple marketing assets)
+
+---
+
+## 🛠 Tools & Skills
+
+- HTML  
+- CSS  
+- Canva  
+- ChatGPT / AI Tools  
+- Basic Automation Tools  
+
+---
+
+## 🚀 Featured Project
+
+### ⌚ Smartwatch Product Page
+
+👉 Live: (add your link)  
+👉 Code: (add repo link)
+
+---
+
+## 🎯 Current Goal
+
+- Build client-ready projects  
+- Start freelancing  
+- Improve automation systems  
+
+---
+
+## 🔮 Future Direction
+
+- AI + Automation services  
+- Digital product business  
+- Smart freelancing system  
+
+---
+
+<p align="center">🔥 Build → Automate → Earn</p>
