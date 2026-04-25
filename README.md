@@ -4,13 +4,13 @@
 
 ---
 
-##👉 About Me  
+## 👉 About Me  
 I build smart AI systems that automate business tasks.  
 My goal is simple: automate work → grow business → generate income.  
 
 ---
 
-##👉 What I Do  
+## 👉 What I Do  
 
 - 🤖 AI Automation (ChatGPT, Tools, Systems)  
 - 🛒 eCommerce Setup (Product, Store, Landing Page)  
@@ -19,7 +19,7 @@ My goal is simple: automate work → grow business → generate income.
 
 ---
 
-##👉 Tools & Skills  
+## 👉 Tools & Skills  
 
 - HTML, CSS  
 - ChatGPT / AI Tools  
@@ -28,7 +28,7 @@ My goal is simple: automate work → grow business → generate income.
 
 ---
 
-##👉 Featured Project  
+## 👉 Featured Project  
 
 ### 🛍 Smart Product Landing Page  
 - Live: (add your link)  
@@ -36,7 +36,7 @@ My goal is simple: automate work → grow business → generate income.
 
 ---
 
-##👉 Current Goal  
+## 👉 Current Goal  
 
 - Build client-ready AI systems  
 - Start freelancing  
@@ -44,7 +44,7 @@ My goal is simple: automate work → grow business → generate income.
 
 ---
 
-##👉 Future Direction  
+## 👉 Future Direction  
 
 - AI Business Automation  
 - Digital Product Business  
@@ -52,4 +52,4 @@ My goal is simple: automate work → grow business → generate income.
 
 ---
 
-🔥 Build → Automate → Earn
+🔥 Build → Automate 
