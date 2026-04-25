@@ -72,3 +72,4 @@
 
 <p align="center">🔥 Build → Automate → Earn</p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himal80&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Himal80&show_icons=true&theme=tokyonight"/>
