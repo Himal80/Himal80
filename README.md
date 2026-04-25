@@ -1,60 +1,55 @@
-<h1 align="center">Hi 👋 I'm Himal</h1>
+# Hi 👋 I'm Himal  
 
-<p align="center">
-🚀 Web + Automation + AI-based freelancing builder
-</p>
+🚀 AI Growth Automation Specialist (eCommerce & Social Media)  
 
 ---
 
-## 🧠 About Me
-
-I build simple but real-world digital solutions.  
-My focus is not just learning — I build things that can generate income.
-
----
-
-## ⚙️ What I Do
-
-🔹 Web Design (HTML, CSS)  
-🔹 AI-based Automation  
-🔹 Social Media & E-commerce Setup  
-🔹 Canva Design (simple marketing assets)
+## 🧠 About Me  
+I build smart AI systems that automate business tasks.  
+My goal is simple: automate work → grow business → generate income.  
 
 ---
 
-## 🛠 Tools & Skills
+## ⚙️ What I Do  
 
-- HTML  
-- CSS  
-- Canva  
+- 🤖 AI Automation (ChatGPT, Tools, Systems)  
+- 🛒 eCommerce Setup (Product, Store, Landing Page)  
+- 📱 Social Media Automation (Content, Posting, Growth)  
+- 🌐 Simple Web Projects (HTML, CSS)  
+
+---
+
+## 🛠 Tools & Skills  
+
+- HTML, CSS  
 - ChatGPT / AI Tools  
+- Canva  
 - Basic Automation Tools  
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Project  
 
-### ⌚ Smartwatch Product Page
-
-👉 Live: (add your link)  
-👉 Code: (add repo link)
+### 🛍 Smart Product Landing Page  
+- Live: (add your link)  
+- Code: (add repo link)  
 
 ---
 
-## 🎯 Current Goal
+## 🎯 Current Goal  
 
-- Build client-ready projects  
+- Build client-ready AI systems  
 - Start freelancing  
-- Improve automation systems  
+- Improve automation skills  
 
 ---
 
-## 🔮 Future Direction
+## 🔮 Future Direction  
 
-- AI + Automation services  
-- Digital product business  
-- Smart freelancing system  
+- AI Business Automation  
+- Digital Product Business  
+- Smart Income Systems  
 
 ---
 
-<p align="center">🔥 Build → Automate → Earn</p>
+🔥 Build → Automate → Earn
