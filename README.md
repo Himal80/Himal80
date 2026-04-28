@@ -16,10 +16,12 @@
 <li>🌐 Simple Web Projects (HTML, CSS)</li>
 </ul>
 
-## 🚀 Live Demo
-👉 https://himal80.github.io/Smartwatch-product-page/
+## 🚀 Live Demo web
+👉 https://himal80.github.io/Ai-auto-web/
 
----
+--- https://himal80.github.io/Sales-Watch-web/
+   
+   https://himal80.github.io/Smartwatch-product-page/
 
 <h3>🌐 Connect with me</h3>
 
