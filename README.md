@@ -16,6 +16,11 @@
 <li>🌐 Simple Web Projects (HTML, CSS)</li>
 </ul>
 
+## 🧠 Live Ai automation workflow
+👉 https://youtu.be/4_jruNsN118
+
+
+
 ## 🚀 Live Demo web
 👉 https://himal80.github.io/Ai-auto-web/
 
